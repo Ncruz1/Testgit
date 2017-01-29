@@ -1,1 +1,2 @@
-this is my some text for you
+this is my text for you
+you mane a couple of errors so i fixed it for you
